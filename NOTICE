@@ -1,0 +1,38 @@
+Neiro
+Copyright (C) 2026 Aizawa
+
+SPDX-License-Identifier: GPL-3.0-or-later
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+The full licence text is in LICENSE. The copy shown in the app is
+NeiroApp/Resources/LICENSE.txt.
+
+--------------------------------------------------------------------------
+
+Bundled third-party components:
+
+  libarchive 3.8.9            BSD-2-Clause
+  XZ Utils 5.8.2 (liblzma)    0BSD
+  zlib 1.3.1                  zlib License
+  UnRAR 7.2.4                  RARLAB freeware licence
+
+These components keep their own licences and copyright notices. Full
+texts are bundled in the app and can be read from the About screen.
+
+UnRAR is free to use in any software that handles RAR archives, but its
+licence also requires that its notice be carried along and forbids using
+it to build a RAR-compatible archiver. Because of that notice
+requirement, the licence covering this program's own code is GPL-3.0-or-
+later, while UnRAR remains under RARLAB's terms.
